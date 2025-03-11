@@ -1,7 +1,6 @@
 public class input {
 
     public static void main(String[] args) {
-        System.out.println("hello");
 
         // Example usage of the summing methods
         int sum1 = sumTwoNumbers(5, 10);
